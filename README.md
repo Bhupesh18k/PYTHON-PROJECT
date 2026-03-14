@@ -50,6 +50,8 @@ information from the user:
 • Age values must be non-negative
 • Billing amounts must be numeric
 • Invalid inputs are handled using exception handling mechanisms
+
+
 6 Execution Steps
 6.1 Environment Setup
 Open a terminal or command prompt and navigate to the project directory containing the
